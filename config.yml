@@ -13,7 +13,7 @@ params:
   dateFormat: January 2, 2006 at 3:04 PM
   brand: "#0a0c0f"
   headerTextColor: white
-  logo: /logo.png
+  logo: /img/devonwebs-final-03big.png
   incidentPostsPerPage: 10
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: true
